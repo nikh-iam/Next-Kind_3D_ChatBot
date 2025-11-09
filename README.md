@@ -41,7 +41,7 @@ Ensure you have the following installed:
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-chatbot.git
+   git clone https://github.com/nikh-iam/ai-chatbot.git
    cd ai-chatbot
    ```
 2. Install dependencies:
